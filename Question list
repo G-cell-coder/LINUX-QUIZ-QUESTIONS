@@ -1,0 +1,1196 @@
+1. Which command is used to change the permissions of a file or directory in Linux?
+    a) chmod
+    b) chown
+    c) chgrp
+    d) chperm
+<br>
+    Answer: a) chmod
+2. What is the purpose of the `/etc/fstab` file in Linux?
+    a) To store system logs
+    b) To configure user accounts
+    c) To define filesystem mount points
+    d) To manage network interfaces
+<br>
+    Answer: c) To define filesystem mount points
+3. Which command is used to display the contents of the kernel ring buffer?
+    a) dmesg
+    b) lsmod
+    c) sysctl
+    d) uname
+<br>
+    Answer: a) dmesg
+4. What is the default port number for SSH connections?
+    a) 21
+    b) 22
+    c) 23
+    d) 25
+<br>
+    Answer: b) 22
+5. Which file contains the list of user accounts that are denied access to the system?
+    a) /etc/passwd
+    b) /etc/shadow
+    c) /etc/deny
+    d) /etc/nologin
+<br>
+    Answer: c) /etc/deny
+6. What is the purpose of the `iptables` command in Linux?
+    a) To manage network interfaces
+    b) To configure firewall rules
+    c) To monitor system performance
+    d) To manage user accounts
+<br>
+    Answer: b) To configure firewall rules
+7. Which command is used to display real-time information about processes?
+    a) ps
+    b) top
+    c) htop
+    d) pgrep
+<br>
+    Answer: b) top
+8. What is the purpose of the `lsof` command?
+    a) To list open files and processes
+    b) To display disk usage
+    c) To show network connections
+    d) To manage user groups
+<br>
+    Answer: a) To list open files and processes
+9. Which file system is commonly used for Linux swap partitions?
+    a) ext4
+    b) xfs
+    c) btrfs
+    d) swap
+<br>
+    Answer: d) swap
+10. What is the purpose of the `nice` command in Linux?
+    a) To adjust process priority
+    b) To terminate processes
+    c) To schedule cron jobs
+    d) To manage network bandwidth
+<br>
+    Answer: a) To adjust process priority
+11. Which command is used to create a compressed archive of files in Linux?
+    a) zip
+    b) gzip
+    c) tar
+    d) compress
+<br>
+    Answer: c) tar
+12. What is the purpose of the `/etc/hosts` file in Linux?
+    a) To store system passwords
+    b) To map hostnames to IP addresses
+    c) To configure network interfaces
+    d) To define user groups
+<br>
+    Answer: b) To map hostnames to IP addresses
+13. Which command is used to display the routing table in Linux?
+    a) ifconfig
+    b) netstat
+    c) route
+    d) ip route
+<br>
+    Answer: d) ip route
+14. What is the purpose of the `chroot` command in Linux?
+    a) To change file permissions
+    b) To change the root directory
+    c) To change user passwords
+    d) To change system time
+<br>
+    Answer: b) To change the root directory
+15. Which command is used to display the current disk usage of file systems?
+    a) du
+    b) df
+    c) fdisk
+    d) lsblk
+<br>
+    Answer: b) df
+16. What is the purpose of the `rsync` command in Linux?
+    a) To synchronize files and directories
+    b) To manage system resources
+    c) To configure network settings
+    d) To monitor system performance
+<br>
+    Answer: a) To synchronize files and directories
+17. Which file contains the configuration for system-wide environment variables?
+    a) /etc/profile
+    b) /etc/bashrc
+    c) /etc/environment
+    d) /etc/vars
+<br>
+    Answer: c) /etc/environment
+18. What is the purpose of the `strace` command in Linux?
+    a) To trace system calls and signals
+    b) To manage storage devices
+    c) To configure network interfaces
+    d) To monitor CPU usage
+<br>
+    Answer: a) To trace system calls and signals
+19. Which command is used to display the last logged-in users?
+    a) who
+    b) w
+    c) last
+    d) users
+<br>
+    Answer: c) last
+20. What is the purpose of the `tcpdump` command in Linux?
+    a) To capture and analyze network traffic
+    b) To manage TCP connections
+    c) To configure network interfaces
+    d) To monitor system load
+<br>
+    Answer: a) To capture and analyze network traffic
+21. Which command is used to display and configure network interfaces?
+    a) ifconfig
+    b) netstat
+    c) ip addr
+    d) route
+<br>
+    Answer: c) ip addr
+22. What is the purpose of the `crontab` file in Linux?
+    a) To schedule periodic tasks
+    b) To manage user accounts
+    c) To configure system services
+    d) To store system logs
+<br>
+    Answer: a) To schedule periodic tasks
+23. Which command is used to display the current running processes and their resource usage?
+    a) ps
+    b) top
+    c) pgrep
+    d) jobs
+<br>
+    Answer: b) top
+24. What is the purpose of the `lvm` command in Linux?
+    a) To manage logical volumes
+    b) To configure network settings
+    c) To monitor system performance
+    d) To manage user permissions
+<br>
+    Answer: a) To manage logical volumes
+25. Which command is used to display and modify the ARP cache?
+    a) arp
+    b) ip neigh
+    c) netstat
+    d) route
+<br>
+    Answer: b) ip neigh
+26. What is the purpose of the `selinux` system in Linux?
+    a) To enhance system security
+    b) To manage network connections
+    c) To configure system services
+    d) To monitor system resources
+<br>
+    Answer: a) To enhance system security
+27. Which command is used to display and modify partition tables?
+    a) fdisk
+    b) parted
+    c) gparted
+    d) partprobe
+<br>
+    Answer: a) fdisk
+28. What is the purpose of the `logrotate` utility in Linux?
+    a) To rotate and manage log files
+    b) To analyze system logs
+    c) To configure logging services
+    d) To monitor disk usage
+<br>
+    Answer: a) To rotate and manage log files
+29. Which command is used to display the current system time and date?
+    a) time
+    b) date
+    c) clock
+    d) cal
+<br>
+    Answer: b) date
+30. What is the purpose of the `sar` command in Linux?
+    a) To collect and report system activity information
+    b) To manage system services
+    c) To configure network settings
+    d) To monitor disk usage
+<br>
+    Answer: a) To collect and report system activity information
+31. Which command is used to display and modify kernel parameters at runtime?
+    a) sysctl
+    b) modprobe
+    c) insmod
+    d) lsmod
+<br>
+    Answer: a) sysctl
+32. What is the purpose of the `systemctl` command in Linux?
+    a) To manage system services
+    b) To configure network interfaces
+    c) To monitor system performance
+    d) To manage user accounts
+<br>
+    Answer: a) To manage system services
+33. Which command is used to display and modify the system's hostname?
+    a) hostname
+    b) uname
+    c) hostnamectl
+    d) sysname
+<br>
+    Answer: c) hostnamectl
+34. What is the purpose of the `nmap` command in Linux?
+    a) To scan networks and discover services
+    b) To manage network connections
+    c) To configure network interfaces
+    d) To monitor network traffic
+<br>
+    Answer: a) To scan networks and discover services
+35. Which command is used to display and modify user and group information?
+    a) usermod
+    b) groupmod
+    c) id
+    d) whoami
+<br>
+    Answer: a) usermod
+36. What is the purpose of the `inode` in the Linux file system?
+    a) To store file metadata
+    b) To manage file permissions
+    c) To compress file contents
+    d) To encrypt file data
+<br>
+    Answer: a) To store file metadata
+37. Which command is used to display and modify SELinux security contexts?
+    a) semanage
+    b) sestatus
+    c) setsebool
+    d) chcon
+<br>
+    Answer: d) chcon
+38. What is the purpose of the `auditd` daemon in Linux?
+    a) To log system events and user activities
+    b) To manage system services
+    c) To configure network settings
+    d) To monitor system performance
+<br>
+    Answer: a) To log system events and user activities
+39. Which command is used to display and modify disk quotas?
+    a) quota
+    b) edquota
+    c) repquota
+    d) setquota
+<br>
+    Answer: b) edquota
+40. What is the purpose of the `journalctl` command in Linux?
+    a) To query and display logs from the systemd journal
+    b) To manage journal entries
+    c) To configure logging services
+    d) To rotate log files
+<br>
+    Answer: a) To query and display logs from the systemd journal
+41. Which command is used to display and modify process priorities?
+    a) nice
+    b) renice
+    c) top
+    d) ps
+<br>
+    Answer: b) renice
+42. What is the purpose of the `ethtool` command in Linux?
+    a) To display and modify network interface card settings
+    b) To configure network routing
+    c) To manage network connections
+    d) To monitor network traffic
+<br>
+    Answer: a) To display and modify network interface card settings
+43. Which command is used to display and modify system resource limits?
+    a) ulimit
+    b) limit
+    c) rlimit
+    d) sysctl
+<br>
+    Answer: a) ulimit
+44. What is the purpose of the `lsblk` command in Linux?
+    a) To list information about block devices
+    b) To manage logical volumes
+    c) To partition disks
+    d) To monitor disk usage
+<br>
+    Answer: a) To list information about block devices
+45. Which command is used to display and modify DNS resolver configuration?
+    a) resolv.conf
+    b) resolvectl
+    c) nslookup
+    d) dig
+<br>
+    Answer: b) resolvectl
+46. What is the purpose of the `syslog` system in Linux?
+    a) To centralize and manage system logs
+    b) To configure system services
+    c) To monitor system performance
+    d) To manage user accounts
+<br>
+    Answer: a) To centralize and manage system logs
+47. Which command is used to display and modify system swap space?
+    a) swapon
+    b) swapoff
+    c) mkswap
+    d) swapctl
+<br>
+    Answer: a) swapon
+48. What is the purpose of the `fail2ban` service in Linux?
+    a) To protect against brute-force attacks
+    b) To manage system failures
+    c) To configure firewall rules
+    d) To monitor system logs
+<br>
+    Answer: a) To protect against brute-force attacks
+49. Which command is used to display and modify system runlevels?
+    a) runlevel
+    b) init
+    c) telinit
+    d) systemctl
+<br>
+    Answer: c) telinit
+50. What is the purpose of the `lsof` command in Linux?
+    a) To list open files and processes
+    b) To display system load
+    c) To manage file systems
+    d) To monitor network connections
+<br>
+    Answer: a) To list open files and processes
+51. Which command is used to display and modify system time synchronization?
+    a) ntpdate
+    b) chrony
+    c) timedatectl
+    d) hwclock
+<br>
+    Answer: c) timedatectl
+52. What is the purpose of the `netfilter` framework in Linux?
+    a) To implement packet filtering and NAT
+    b) To manage network interfaces
+    c) To configure DNS settings
+    d) To monitor network performance
+<br>
+    Answer: a) To implement packet filtering and NAT
+53. Which command is used to display and modify system resource accounting?
+    a) acct
+    b) sa
+    c) lastcomm
+    d) accton
+<br>
+    Answer: d) accton
+54. What is the purpose of the `rsyslog` service in Linux?
+    a) To process and forward system logs
+    b) To manage system resources
+    c) To configure network settings
+    d) To monitor system performance
+<br>
+    Answer: a) To process and forward system logs
+55. Which command is used to display and modify system kernel modules?
+    a) lsmod
+    b) modprobe
+    c) insmod
+    d) rmmod
+<br>
+    Answer: b) modprobe
+56. What is the purpose of the `apparmor` system in Linux?
+    a) To provide application-level security
+    b) To manage application installations
+    c) To configure system services
+    d) To monitor application performance
+<br>
+    Answer: a) To provide application-level security
+57. Which command is used to display and modify system process limits?
+    a) ulimit
+    b) plimit
+    c) prlimit
+    d) limit
+<br>
+    Answer: c) prlimit
+58. What is the purpose of the `udev` system in Linux?
+    a) To manage device nodes dynamically
+    b) To configure user accounts
+    c) To manage system services
+    d) To monitor system resources
+<br>
+    Answer: a) To manage device nodes dynamically
+59. Which command is used to display and modify system boot parameters?
+    a) grub
+    b) lilo
+    c) bootloader
+    d) bootctl
+<br>
+    Answer: d) bootctl
+60. What is the purpose of the `lvm` (Logical Volume Manager) in Linux?
+    a) To manage flexible disk storage
+    b) To configure network settings
+    c) To monitor system performance
+    d) To manage user permissions
+<br>
+    Answer: a) To manage flexible disk storage
+61. Which command is used to display and modify system process scheduling?
+    a) nice
+    b) renice
+    c) sched
+    d) chrt
+<br>
+    Answer: d) chrt
+62. What is the purpose of the `systemd-networkd` service in Linux?
+    a) To manage network configurations
+    b) To monitor network traffic
+    c) To configure firewall rules
+    d) To manage network connections
+<br>
+    Answer: a) To manage network configurations
+63. Which command is used to display and modify system RAID configurations?
+    a) mdadm
+    b) raidctl
+    c) lvdisplay
+    d) pvs
+<br>
+    Answer: a) mdadm
+64. What is the purpose of the `tcpdump` command in Linux?
+    a) To capture and analyze network packets
+    b) To manage TCP connections
+    c) To configure network interfaces
+    d) To monitor system load
+<br>
+    Answer: a) To capture and analyze network packets
+65. Which command is used to display and modify system kernel parameters at runtime?
+    a) sysctl
+    b) kernelctl
+    c) procfs
+    d) kconfig
+<br>
+    Answer: a) sysctl
+66. What is the purpose of the `systemd-resolved` service in Linux?
+    a) To provide network name resolution
+    b) To manage system services
+    c) To configure network interfaces
+    d) To monitor DNS traffic
+<br>
+    Answer: a) To provide network name resolution
+67. Which command is used to display and modify system process priorities?
+    a) nice
+    b) renice
+    c) ionice
+    d) priorityctl
+<br>
+    Answer: c) ionice
+68. What is the purpose of the `netplan` tool in Linux?
+    a) To manage network configurations
+    b) To monitor network traffic
+    c) To configure firewall rules
+    d) To manage network connections
+<br>
+    Answer: a) To manage network configurations
+69. Which command is used to display and modify system file access control lists (ACLs)?
+    a) chmod
+    b) chown
+    c) setfacl
+    d) chacl
+<br>
+    Answer: c) setfacl
+70. What is the purpose of the `systemd-timesyncd` service in Linux?
+    a) To synchronize system time
+    b) To manage system timers
+    c) To configure time zones
+    d) To monitor system uptime
+<br>
+    Answer: a) To synchronize system time
+71. Which command is used to display and modify system process resource limits?
+    a) ulimit
+    b) limit
+    c) prlimit
+    d) rlimit
+<br>
+    Answer: c) prlimit
+72. What is the purpose of the `systemd-journald` service in Linux?
+    a) To collect and store log data
+    b) To manage system journals
+    c) To configure logging services
+    d) To rotate log files
+<br>
+    Answer: a) To collect and store log data
+73. Which command is used to display and modify system boot loader configurations?
+    a) grub-install
+    b) grub-mkconfig
+    c) update-grub
+    d) grub-customizer
+<br>
+    Answer: b) grub-mkconfig
+74. What is the purpose of the `nscd` (Name Service Cache Daemon) in Linux?
+    a) To cache name service lookups
+    b) To manage network services
+    c) To configure DNS settings
+    d) To monitor network performance
+<br>
+    Answer: a) To cache name service lookups
+75. Which command is used to display and modify system process scheduling policies?
+    a) nice
+    b) renice
+    c) chrt
+    d) sched
+<br>
+    Answer: c) chrt
+76. What is the purpose of the `systemd-logind` service in Linux?
+    a) To manage user logins and sessions
+    b) To configure system logging
+    c) To monitor user activities
+    d) To manage system services
+<br>
+    Answer: a) To manage user logins and sessions
+77. Which command is used to display and modify system network bonding configurations?
+    a) ifenslave
+    b) bondctl
+    c) nmcli
+    d) ip link
+<br>
+    Answer: c) nmcli
+78. What is the purpose of the `tuned` service in Linux?
+    a) To optimize system performance and energy consumption
+    b) To manage system tuning parameters
+    c) To configure audio settings
+    d) To monitor system resources
+<br>
+    Answer: a) To optimize system performance and energy consumption
+79. Which command is used to display and modify system process resource accounting?
+    a) acct
+    b) sa
+    c) lastcomm
+    d) psacct
+<br>
+    Answer: a) acct
+80. What is the purpose of the `systemd-udevd` service in Linux?
+    a) To manage device events and device nodes
+    b) To configure user devices
+    c) To monitor device usage
+    d) To manage system devices
+<br>
+    Answer: a) To manage device events and device nodes
+81. Which command is used to display and modify system process namespaces?
+    a) nsenter
+    b) unshare
+    c) ip netns
+    d) lsns
+<br>
+    Answer: a) nsenter
+82. What is the purpose of the `chrony` service in Linux?
+    a) To synchronize system time
+    b) To manage system chronology
+    c) To configure time zones
+    d) To monitor system uptime
+<br>
+    Answer: a) To synchronize system time
+83. Which command is used to display and modify system process control groups (cgroups)?
+    a) cgcreate
+    b) cgexec
+    c) cgclassify
+    d) systemd-cgtop
+<br>
+    Answer: a) cgcreate
+84. What is the purpose of the `systemd-oomd` service in Linux?
+    a) To manage out-of-memory situations
+    b) To optimize memory usage
+    c) To monitor memory performance
+    d) To configure memory limits
+<br>
+    Answer: a) To manage out-of-memory situations
+85. Which command is used to display and modify system process capabilities?
+    a) getcap
+    b) setcap
+    c) capsh
+    d) capabilities
+<br>
+    Answer: b) setcap
+86. What is the purpose of the `firewalld` service in Linux?
+    a1. Which command is used to configure network interfaces in Linux?
+    a) ifconfig
+    b) netconfig
+    c) ip
+    d) networkctl
+    Correct Answer: c) ip
+87. What is the purpose of the `/etc/fstab` file?
+    a) To store system logs
+    b) To configure network settings
+    c) To define mountable filesystems
+    d) To manage user accounts
+    Correct Answer: c) To define mountable filesystems
+88. Which command is used to change the ownership of a file or directory?
+    a) chmod
+    b) chown
+    c) chgrp
+    d) setfacl
+    Correct Answer: b) chown
+89. What does the `iptables` command do?
+    a) Manages system processes
+    b) Configures network firewall rules
+    c) Sets up DNS servers
+    d) Monitors network traffic
+    Correct Answer: b) Configures network firewall rules
+90. Which file contains the list of currently mounted filesystems?
+    a) /etc/fstab
+    b) /etc/mtab
+    c) /proc/mounts
+    d) /var/log/mount
+    Correct Answer: c) /proc/mounts
+91. What is the purpose of the `lsof` command?
+    a) List open files
+    b) List system fonts
+    c) List system failures
+    d) List system features
+    Correct Answer: a) List open files
+92. Which command is used to display the routing table?
+    a) route
+    b) ip route
+    c) netstat -r
+    d) All of the above
+    Correct Answer: d) All of the above
+93. What does the `nice` command do?
+    a) Compliments the system
+    b) Adjusts process priority
+    c) Improves system performance
+    d) Cleans up temporary files
+    Correct Answer: b) Adjusts process priority
+94. Which file contains the system-wide environment variables?
+    a) /etc/profile
+    b) /etc/environment
+    c) /etc/bash.bashrc
+    d) /etc/variables
+    Correct Answer: b) /etc/environment
+95. What is the purpose of the `rsync` command?
+    a) To synchronize files and directories
+    b) To restart system services
+    c) To reset network connections
+    d) To remove system configuration
+    Correct Answer: a) To synchronize files and directories
+96. Which command is used to change the default runlevel in systemd?
+    a) init
+    b) telinit
+    c) systemctl set-default
+    d) runlevel
+    Correct Answer: c) systemctl set-default
+97. What does the `lsmod` command display?
+    a) List of mounted filesystems
+    b) List of loaded kernel modules
+    c) List of system modifiers
+    d) List of modified files
+    Correct Answer: b) List of loaded kernel modules
+98. Which file is used to configure DNS resolution in Linux?
+    a) /etc/hosts
+    b) /etc/resolv.conf
+    c) /etc/dns.conf
+    d) /etc/named.conf
+    Correct Answer: b) /etc/resolv.conf
+99. What is the purpose of the `strace` command?
+    a) To trace system calls and signals
+    b) To stress test the system
+    c) To strategize system resources
+    d) To stream system logs
+    Correct Answer: a) To trace system calls and signals
+100. Which command is used to display the last logged in users?
+    a) who
+    b) w
+    c) last
+    d) lastlog
+    Correct Answer: c) last
+101. What does the `netstat` command do?
+    a) Configures network settings
+    b) Displays network connections and statistics
+    c) Tests network connectivity
+    d) Manages network interfaces
+    Correct Answer: b) Displays network connections and statistics
+102. Which file contains the list of users who are denied access to the system?
+    a) /etc/passwd
+    b) /etc/shadow
+    c) /etc/nologin
+    d) /etc/deny
+    Correct Answer: c) /etc/nologin
+103. What is the purpose of the `tcpdump` command?
+    a) To dump TCP connections
+    b) To analyze network traffic
+    c) To configure TCP/IP settings
+    d) To test TCP performance
+    Correct Answer: b) To analyze network traffic
+104. Which command is used to display the current runlevel in systemd?
+    a) runlevel
+    b) systemctl get-default
+    c) who -r
+    d) init --show
+    Correct Answer: b) systemctl get-default
+105. What does the `ss` command do?
+    a) Shows system status
+    b) Displays socket statistics
+    c) Starts system services
+    d) Stops system services
+    Correct Answer: b) Displays socket statistics
+106. Which file is used to configure PAM (Pluggable Authentication Modules)?
+    a) /etc/pam.conf
+    b) /etc/pam.d/
+    c) /etc/security/pam.conf
+    d) /etc/auth/pam.d/
+    Correct Answer: b) /etc/pam.d/
+107. What is the purpose of the `ionice` command?
+    a) To set I/O scheduling class and priority
+    b) To manage ion channels
+    c) To configure network I/O
+    d) To optimize system performance
+    Correct Answer: a) To set I/O scheduling class and priority
+108. Which command is used to display the current memory usage?
+    a) meminfo
+    b) free
+    c) top
+    d) vmstat
+    Correct Answer: b) free
+109. What does the `ethtool` command do?
+    a) Configures network interfaces
+    b) Manages ethernet connections
+    c) Displays and modifies NIC parameters
+    d) Tests ethernet cables
+    Correct Answer: c) Displays and modifies NIC parameters
+110. Which file contains the system's boot messages?
+    a) /var/log/boot.log
+    b) /var/log/dmesg
+    c) /var/log/messages
+    d) /var/log/syslog
+    Correct Answer: b) /var/log/dmesg
+111. What is the purpose of the `hdparm` command?
+    a) To manage hard disk partitions
+    b) To set and view hard disk parameters
+    c) To repair hard disk errors
+    d) To benchmark hard disk performance
+    Correct Answer: b) To set and view hard disk parameters
+112. Which command is used to display the system's uptime?
+    a) uptime
+    b) top
+    c) w
+    d) All of the above
+    Correct Answer: d) All of the above
+113. What does the `sysctl` command do?
+    a) Controls system services
+    b) Modifies kernel parameters at runtime
+    c) Manages system users
+    d) Configures system time
+    Correct Answer: b) Modifies kernel parameters at runtime
+114. Which file is used to configure system-wide cron jobs?
+    a) /etc/crontab
+    b) /var/spool/cron
+    c) /etc/cron.d
+    d) /usr/bin/crontab
+    Correct Answer: a) /etc/crontab
+115. What is the purpose of the `vmstat` command?
+    a) To display virtual memory statistics
+    b) To manage virtual machines
+    c) To monitor system performance
+    d) To configure virtual memory settings
+    Correct Answer: c) To monitor system performance
+116. Which command is used to display the current disk usage?
+    a) du
+    b) df
+    c) fdisk
+    d) lsblk
+    Correct Answer: b) df
+117. What does the `ulimit` command do?
+    a) Sets user limits
+    b) Displays system limits
+    c) Configures network limits
+    d) Manages process limits
+    Correct Answer: a) Sets user limits
+118. Which file contains the list of filesystems to be checked by fsck?
+    a) /etc/fstab
+    b) /etc/mtab
+    c) /etc/fsck.conf
+    d) /proc/filesystems
+    Correct Answer: a) /etc/fstab
+119. What is the purpose of the `sar` command?
+    a) To collect and report system activity information
+    b) To search and replace text in files
+    c) To manage system archives
+    d) To configure system auditing
+    Correct Answer: a) To collect and report system activity information
+120. Which command is used to display the current system load average?
+    a) top
+    b) uptime
+    c) w
+    d) All of the above
+    Correct Answer: d) All of the above
+121. What does the `lsattr` command do?
+    a) Lists file attributes
+    b) Lists system attributes
+    c) Lists user attributes
+    d) Lists network attributes
+    Correct Answer: a) Lists file attributes
+122. Which file is used to configure network interfaces in modern Linux distributions?
+    a) /etc/network/interfaces
+    b) /etc/sysconfig/network-scripts/
+    c) /etc/netplan/
+    d) /etc/networkmanager/
+    Correct Answer: c) /etc/netplan/
+123. What is the purpose of the `dmesg` command?
+    a) To display kernel ring buffer messages
+    b) To manage system daemons
+    c) To configure system messages
+    d) To send messages to other users
+    Correct Answer: a) To display kernel ring buffer messages
+124. Which command is used to display and configure network bonds?
+    a) ifenslave
+    b) bondctl
+    c) nmcli
+    d) ip link
+    Correct Answer: c) nmcli
+125. What does the `tune2fs` command do?
+    a) Tunes the Linux audio system
+    b) Adjusts ext2/ext3/ext4 filesystem parameters
+    c) Configures system performance
+    d) Optimizes network tuning
+    Correct Answer: b) Adjusts ext2/ext3/ext4 filesystem parameters
+126. Which file contains the system's hostname?
+    a) /etc/hostname
+    b) /etc/hosts
+    c) /proc/sys/kernel/hostname
+    d) /etc/sysconfig/network
+    Correct Answer: a) /etc/hostname
+127. What is the purpose of the `ldconfig` command?
+    a) To configure LDAP settings
+    b) To update shared library cache
+    c) To manage system load
+    d) To configure system locales
+    Correct Answer: b) To update shared library cache
+128. Which command is used to display information about block devices?
+    a) blkid
+    b) lsblk
+    c) fdisk -l
+    d) All of the above
+    Correct Answer: d) All of the above
+129. What does the `nohup` command do?
+    a) Runs a command immune to hangups
+    b) Prevents system shutdowns
+    c) Disables network connections
+    d) Stops all running processes
+    Correct Answer: a) Runs a command immune to hangups
+130. Which file is used to configure system-wide aliases?
+    a) /etc/aliases
+    b) /etc/bashrc
+    c) /etc/profile
+    d) /etc/shell
+    Correct Answer: a) /etc/aliases
+131. What is the purpose of the `parted` command?
+    a) To partition disks
+    b) To manage system partitions
+    c) To repair partitions
+    d) To display partition information
+    Correct Answer: a) To partition disks
+132. Which command is used to display and manage SELinux settings?
+    a) semanage
+    b) sestatus
+    c) getenforce
+    d) All of the above
+    Correct Answer: d) All of the above
+133. What does the `chage` command do?
+    a) Changes user passwords
+    b) Modifies user account aging information
+    c) Changes group settings
+    d) Configures system changes
+    Correct Answer: b) Modifies user account aging information
+134. Which file contains the list of services to be started at boot time in SysV init systems?
+    a) /etc/inittab
+    b) /etc/rc.d/rc.local
+    c) /etc/init.d/
+    d) /etc/rc.d/rc.sysinit
+    Correct Answer: a) /etc/inittab
+135. What is the purpose of the `lspci` command?
+    a) Lists PCI devices
+    b) Configures PCI settings
+    c) Tests PCI performance
+    d) Manages PCI drivers
+    Correct Answer: a) Lists PCI devices
+136. Which command is used to display and manage user quotas?
+    a) quota
+    b) edquota
+    c) repquota
+    d) All of the above
+    Correct Answer: d) All of the above
+137. What does the `swapon` command do?
+    a) Enables swap space
+    b) Displays swap usage
+    c) Creates swap partitions
+    d) Optimizes swap performance
+    Correct Answer: a) Enables swap space
+138. Which file is used to configure system-wide SSH settings?
+    a) /etc/ssh/sshd\_config
+    b) /etc/ssh/ssh\_config
+    c) /etc/sshd.conf
+    d) /etc/ssh/config
+    Correct Answer: a) /etc/ssh/sshd\_config
+139. What is the purpose of the `iptraf` command?
+    a) To configure IP settings
+    b) To monitor network traffic
+    c) To test IP connectivity
+    d) To manage IP addresses
+    Correct Answer: b) To monitor network traffic
+140. Which command is used to display and manage LVM volumes?
+    a) lvdisplay
+    b) vgdisplay
+    c) pvdisplay
+    d) All of the above
+    Correct Answer: d) All of the above
+141. What does the `tr` command do?
+    a) Translates characters
+    b) Transfers files
+    c) Truncates files
+    d) Traces system calls
+    Correct Answer: a) Translates characters
+142. Which file contains the list of users allowed to use sudo?
+    a) /etc/sudoers
+    b) /etc/sudo.conf
+    c) /etc/security/sudo
+    d) /etc/pam.d/sudo
+    Correct Answer: a) /etc/sudoers
+143. What is the purpose of the `logrotate` command?
+    a) To rotate system logs
+    b) To analyze log files
+    c) To compress log files
+    d) To delete old logs
+    Correct Answer: a) To rotate system logs
+144. Which command is used to display and manage network bridges?
+    a) brctl
+    b) ip link
+    c) nmcli
+    d) All of the above
+    Correct Answer: d) All of the above
+145. What does the `mkfs` command do?
+    a) Makes filesystems
+    b) Creates directories
+    c) Manages file permissions
+    d) Mounts filesystems
+    Correct Answer: a) Makes filesystems
+146. Which file is used to configure system-wide environment variables in systemd systems?
+    a) /etc/environment
+    b) /etc/systemd/system.conf
+    c) /etc/profile
+    d) /etc/sysconfig/env
+    Correct Answer: a) /etc/environment
+147. What is the purpose of the `hwclock` command?
+    a) To display hardware information
+    b) To set or display the hardware clock
+    c) To synchronize system time
+    d) To configure clock settings
+    Correct Answer: b) To set or display the hardware clock
+148. Which command is used to display and manage system services in systemd?
+    a) service
+    b) systemctl
+    c) chkconfig
+    d) initctl
+    Correct Answer: b) systemctl
+149. What does the `lsusb` command do?
+    a) Lists USB devices
+    b) Manages USB drivers
+    c) Tests USB ports
+    d) Configures USB settings
+    Correct Answer: a) Lists USB devices
+150. Which file contains the list of trusted CA certificates?
+    a) /etc/ssl/certs/ca-certificates.crt
+    b) /etc/pki/tls/certs/ca-bundle.crt
+    c) /usr/share/ca-certificates/
+    d) All of the above
+    Correct Answer: d) All of the above
+151. What is the purpose of the `smartctl` command?
+    a) To control smart devices
+    b) To display SMART attributes of storage devices
+    c) To manage system smartcards
+    d) To configure smart network settings
+    Correct Answer: b) To display SMART attributes of storage devices
+152. Which command is used to display and manage network namespaces?
+    a) ip netns
+    b) netns
+    c) namespace
+    d) nsenter
+    Correct Answer: a) ip netns
+153. What does the `sestatus` command do?
+    a) Shows SELinux status
+    b) Sets SELinux policies
+    c) Configures SELinux settings
+    d) Disables SELinux
+    Correct Answer: a) Shows SELinux status
+154. Which file is used to configure system-wide proxy settings?
+    a) /etc/profile
+    b) /etc/environment
+    c) /etc/proxy.conf
+    d) /etc/sysconfig/proxy
+    Correct Answer: b) /etc/environment
+155. What is the purpose of the `pgrep` command?
+    a) To search for processes
+    b) To kill processes
+    c) To display process information
+    d) To manage process priorities
+    Correct Answer: a) To search for processes
+156. Which command is used to display and manage software RAID devices?
+    a) mdadm
+    b) raidctl
+    c) lvmdiskscan
+    d) fdisk
+    Correct Answer: a) mdadm
+157. What does the `nmcli` command do?
+    a) Manages network connections
+    b) Configures network interfaces
+    c) Displays network statistics
+    d) All of the above
+    Correct Answer: d) All of the above
+158. Which file contains the list of currently logged-in users?
+    a) /var/run/utmp
+    b) /var/log/wtmp
+    c) /var/log/lastlog
+    d) /etc/passwd
+    Correct Answer: a) /var/run/utmp
+159. What is the purpose of the `nc` (netcat) command?
+    a) To test network connections
+    b) To transfer data over network
+    c) To scan network ports
+    d) All of the above
+    Correct Answer: d) All of the above
+160. Which command is used to display and manage storage device I/O statistics?
+    a) iostat
+    b) iotop
+    c) blktrace
+    d) All of the above
+    Correct Answer: d) All of the above
+161. What does the `journalctl` command do?
+    a) Manages system journals
+    b) Displays systemd journal logs
+    c) Configures journaling settings
+    d) Rotates journal files
+    Correct Answer: b) Displays systemd journal logs
+162. Which file is used to configure system-wide ulimits?
+    a) /etc/security/limits.conf
+    b) /etc/sysctl.conf
+    c) /etc/ulimit.conf
+    d) /etc/pam.d/limits
+    Correct Answer: a) /etc/security/limits.conf
+163. What is the purpose of the `ausearch` command?
+    a) To search for files
+    b) To query audit logs
+    c) To find user accounts
+    d) To locate system resources
+    Correct Answer: b) To query audit logs
+164. Which command is used to display and manage network routing tables?
+    a) route
+    b) ip route
+    c) netstat -r
+    d) All of the above
+    Correct Answer: d) All of the above
+165. What does the `xargs` command do?
+    a) Builds and executes command lines from standard input
+    b) Extracts arguments from files
+    c) Executes commands with extended arguments
+    d) Manages X Window System arguments
+    Correct Answer: a) Builds and executes command lines from standard input
+166. Which file contains the configuration for the system's network time synchronization?
+    a) /etc/ntp.conf
+    b) /etc/chrony.conf
+    c) /etc/timesyncd.conf
+    d) All of the above
+    Correct Answer: d) All of the above
+167. What is the purpose of the `visudo` command?
+    a) To edit the sudoers file safely
+    b) To view sudo logs
+    c) To configure sudo settings
+    d) To manage sudo users
+    Correct Answer: a) To edit the sudoers file safely
+168. Which command is used to display and manage system resource limits?
+    a) ulimit
+    b) limit
+    c) rlimit
+    d) syslimit
+    Correct Answer: a) ulimit
+169. What does the `lsof` command do when used with the `-i` option?
+    a) Lists open internet and network files
+    b) Displays information about network interfaces
+    c) Shows IP addresses of connected clients
+    d) Lists installed network packages
+    Correct Answer: a) Lists open internet and network files
+170. Which file is used to configure the system's hostname resolution order?
+    a) /etc/host.conf
+    b) /etc/nsswitch.conf
+    c) /etc/resolv.conf
+    d) /etc/hosts
+    Correct Answer: b) /etc/nsswitch.conf
+171. What is the purpose of the `sysctl` command?
+    a) To manage system control settings
+    b) To display system information
+    c) To control system services
+    d) To configure system time
+    Correct Answer: a) To manage system control settings
+172. Which command is used to display and manage network interface statistics?
+    a) ifconfig
+    b) ip -s link
+    c) netstat -i
+    d) All of the above
+    Correct Answer: d) All of the above
+173. What does the `chroot` command do?
+    a) Changes the root directory for a command
+    b) Modifies root user permissions
+    c) Manages root-level processes
+    d) Configures root access controls
+    Correct Answer: a) Changes the root directory for a command
+174. Which file contains the configuration for system-wide bash settings?
+    a) /etc/profile
+    b) /etc/bash.bashrc
+    c) /etc/bashrc
+    d) All of the above
+    Correct Answer: d) All of the above
+175. What is the purpose of the `tcpdump` command?
+    a) To analyze network traffic
+    b) To configure TCP settings
+    c) To manage TCP connections
+    d) To test TCP performance
+    Correct Answer: a) To analyze network traffic
+176. Which command is used to display and manage process priorities?
+    a) nice
+    b) renice
+    c) top
+    d) All of the above
+    Correct Answer: d) All of the above
+177. What does the `hdparm` command do when used with the `-tT` options?
+    a) Tests disk read performance
+    b) Displays disk temperature
+    c) Configures disk transfer modes
+    d) Shows disk partition table
+    Correct Answer: a) Tests disk read performance
+178. Which file is used to configure system-wide mail aliases?
+    a) /etc/aliases
+    b) /etc/mail/aliases
+    c) /etc/postfix/aliases
+    d) All of the above
+    Correct Answer: d) All of the above
+179. What is the purpose of the `ldd` command?
+    a) To display shared library dependencies
+    b) To manage library directories
+    c) To link dynamic libraries
+    d) To load library modules
+    Correct Answer: a) To display shared library dependencies
+180. Which command is used to display and manage kernel modules?
+    a) lsmod
+    b) modprobe
+    c) insmod
+    d) All of the above
+    Correct Answer: d) All of the above
+181. What does the `fuser` command do?
+    a) Identifies processes using files or sockets
+    b) Manages file user permissions
+    c) Configures filesystem usage limits
+    d) Displays file usage statistics
+    Correct Answer: a) Identifies processes using files or sockets
+182. Which file contains the configuration for system-wide cron jobs?
+    a) /etc/crontab
+    b) /etc/cron.d/
+    c) /var/spool/cron/
+    d) All of the above
+    Correct Answer: d) All of the above
+183. What is the purpose of the `authconfig` command in Red Hat-based systems?
+    a) To configure system authentication
+    b) To manage user authentication
+    c) To set up authentication servers
+    d) To test authentication methods
+    Correct Answer: a) To configure system authentication
+184. Which command is used to display and manage network interface bonding?
+    a) ifenslave
+    b) bonding
+    c) nmcli
+    d) All of the above
+    Correct Answer: d) All of the above
+185. What does the `sestatus` command do when used with the `-v` option?
+    a) Displays verbose SELinux status
+    b) Verifies SELinux policies
+    c) Shows SELinux version information
+    d) Enables verbose SELinux logging
+    Correct Answer: a) Displays verbose SELinux status
